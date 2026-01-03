@@ -13,3 +13,12 @@ This project follows a modular structure separating experimentation, training, e
 
 ## 3. Current Status
 Sprint 0 – Project initialization and problem definition.
+
+## 4. Data Understanding (Sprint 1)
+- Dataset: CIFAR-10
+- Number of training samples: 50,000
+- Number of test samples: 10,000
+- Image size: 32x32 RGB
+- Dataset is balanced across 10 classes
+
+Initial visual inspection shows that images are low-resolution, which may impact classification performance.
