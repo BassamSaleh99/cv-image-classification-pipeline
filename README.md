@@ -22,3 +22,8 @@ Sprint 0 – Project initialization and problem definition.
 - Dataset is balanced across 10 classes
 
 Initial visual inspection shows that images are low-resolution, which may impact classification performance.
+
+## 5. Baseline Model (Sprint 2)
+A classical machine learning baseline using Logistic Regression was implemented on flattened image pixels.
+
+This baseline achieved approximately 68% accuracy, serving as a reference point for future CNN-based models.
